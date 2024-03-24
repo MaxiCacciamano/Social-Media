@@ -1,0 +1,19 @@
+.main{
+    /* background-color: hsl(0, 0%, 15%); */
+    background-color: hsl(0, 0%, 12%);
+
+    .button{
+        background-color: hsl(0, 0%, 20%);
+    }
+
+    .color{
+        color: hsl(0, 0%, 100%);
+    }
+    .subcolor{
+        color: hsla(0, 0%, 100%, 0.604);
+    }
+}
+
+.location{
+        color: hsl(75, 94%, 57%);
+}
